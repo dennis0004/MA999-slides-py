@@ -1,0 +1,7 @@
+mesa
+numpy
+pandas
+matplotlib
+networkx
+scipy
+jupyterlab
